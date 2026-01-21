@@ -98,7 +98,7 @@ federated-learning-data-split/
 │   ├── split_all_datasets_fixed.py      # Glowny skrypt podzialu
 │   └── generate_dashboard_json.py       # Generator danych dla dashboardow
 
-└── dashboards/
+└── datasets/
     ├── dashboard-before-split.html      # Dashboard: przeglad datasetow
     ├── dashboard-after-split.html       # Dashboard: analiza podzialu
     └── dashboard_data.json              # Dane dla dashboardow
@@ -232,8 +232,8 @@ Szczegolowa analiza podzialu federacyjnego:
 **Uruchomienie:**
 ```bash
 # Otworz w przegladarce
-open dashboards/dashboard-before-split.html
-open dashboards/dashboard-after-split.html
+open datasets/dashboard-before-split.html
+open datasets/dashboard-after-split.html
 ```
 
 Dashboardy wymagaja pliku `dashboard_data.json` w tym samym folderze.
