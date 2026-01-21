@@ -281,9 +281,8 @@ GitHub: [@VeRonikARoNik](https://github.com/VeRonikARoNik)
 
 ## Podziekowania
 
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) - Letter Recognition, Electric Power
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) - Letter Recognition, Electric Power, RT-IoT2022
 - [PhysioNet](https://physionet.org/) - MIMIC-IV-ED
-- [Kaggle](https://kaggle.com/) - RT-IoT2022
 
 ---
 
