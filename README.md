@@ -97,13 +97,12 @@ federated-learning-data-split/
 │   ├── split_all_datasets_fixed.py      # Główny skrypt podziału
 │   └── generate_dashboard_json.py       # Generator danych dla dashboardów
 
-├── dashboards/
+├── datasets/
 │   ├── dashboard-before-split.html      # Dashboard: przegląd datasetów
 │   ├── dashboard-after-split.html       # Dashboard: analiza podziału
 │   └── dashboard_data.json              # Dane dla dashboardów
 
-└── docs/
-    └── Opis_Matematyczny_Podzialu_Danych.pdf  # Dokumentacja matematyczna
+└── Opis_Matematyczny_Podzialu_Danych.pdf  # Dokumentacja matematyczna
 ```
 
 ### Dane (Google Drive)
